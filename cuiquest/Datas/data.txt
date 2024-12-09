@@ -1,0 +1,14 @@
+playtime	607.000000
+name	hello
+Exp	21
+hp	19
+hp_plus	0
+str	8
+str_plus	2
+agi	6
+agi_plus	0
+equip	2
+money	1117
+spd	1.0
+autosave	0
+mode	0

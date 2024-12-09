@@ -1,0 +1,8 @@
+-	0-name	1-property	2-type	3-power	4-dex
+1	ウレオン	attack	ほのお	1.4	通常攻撃
+2	アイアルハ	attack	ほのお	2.00 	通常攻撃
+3	イケレ	attack	かみなり	1.4	通常攻撃
+4	イラニマク	attack	かみなり	2.00 	通常攻撃
+5	ウオノス	attack	こおり	1.4	通常攻撃
+6	オダジルビ	attack	こおり	2.00 	通常攻撃
+7	マネコイ	buff	money	1.60 	落とすお金を1.6倍にする
